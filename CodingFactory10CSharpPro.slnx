@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="DataTypes/DataTypes.csproj" Id="d1c07459-3e2c-4f92-8a30-0cb2d0095b32" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="KilometersApp/KilometersApp.csproj" Id="6df57ef7-5d6f-43a6-b4ae-06e16f07d6a1" />
+  <Project Path="NumberRead/NumberRead.csproj" Id="423ee3ea-1330-4e03-9839-ea93fd7bb60f" />
+  <Project Path="PrintingApp/PrintingApp.csproj" Id="684f41fb-6a85-41a5-ad15-ccd1efc07248" />
 </Solution>
