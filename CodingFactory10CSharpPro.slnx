@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DataTypes/DataTypes.csproj" Id="d1c07459-3e2c-4f92-8a30-0cb2d0095b32" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+</Solution>
