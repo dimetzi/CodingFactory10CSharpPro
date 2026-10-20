@@ -4,4 +4,5 @@
   <Project Path="KilometersApp/KilometersApp.csproj" Id="6df57ef7-5d6f-43a6-b4ae-06e16f07d6a1" />
   <Project Path="NumberRead/NumberRead.csproj" Id="423ee3ea-1330-4e03-9839-ea93fd7bb60f" />
   <Project Path="PrintingApp/PrintingApp.csproj" Id="684f41fb-6a85-41a5-ad15-ccd1efc07248" />
+  <Project Path="ProductsVat/ProductsVat.csproj" Id="1aca6de0-4c3d-44ba-b007-de7067543560" />
 </Solution>
