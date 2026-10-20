@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace ProductsVat
+﻿namespace ProductsVat
 {   
     /// <summary>
     /// Reads a product price from the console, 
@@ -11,8 +9,7 @@ namespace ProductsVat
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.InputEncoding = Encoding.UTF8;
+   
 
             //Declare and initialize variables
             const double VAT_RATE = 0.24;
@@ -36,9 +33,10 @@ namespace ProductsVat
 
 
             //Print results.
-            Console.WriteLine($"Product Price: ${price:F2}");
-            Console.WriteLine($"VAT Amount: ${vatAmount:F2}");
-            Console.WriteLine($"Total Price: ${totalPrice:F2}");
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine($"Product Price: ${price:F2} €");
+            Console.WriteLine($"VAT Amount: ${vatAmount:F2} €");
+            Console.WriteLine($"Total Price: ${totalPrice:F2} €");
         }
     }
 }
