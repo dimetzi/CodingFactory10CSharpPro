@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="ArraysApp/ArraysApp.csproj" Id="da6c18db-01a1-43c3-8dae-5e93808b9208" />
   <Project Path="CitiesForApp/CitiesForApp.csproj" Id="7bd1a4a1-1c5e-41d2-a676-c94068eb5f2a" />
   <Project Path="DataTypes/DataTypes.csproj" Id="d1c07459-3e2c-4f92-8a30-0cb2d0095b32" />
   <Project Path="DoWhileApp/DoWhileApp.csproj" Id="b4f1dbef-46b6-43bf-acdf-b2b49c147b99" />
+  <Project Path="FibonacciIterative/FibonacciIterative.csproj" Id="1692e084-d33b-4ef9-afa0-ea405545a83d" />
   <Project Path="FormatExceptionApp/FormatExceptionApp.csproj" Id="e3dfcad8-792f-449e-ab60-0d7c7e97324a" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="ifUseCases/ifUseCases.csproj" Id="12a59c6b-cb62-4914-854b-926b0772fc5a" />
@@ -13,6 +15,7 @@
   <Project Path="ProductsVat/ProductsVat.csproj" Id="1aca6de0-4c3d-44ba-b007-de7067543560" />
   <Project Path="ProductWhileApp/ProductWhileApp.csproj" Id="8bd56a2c-0441-40c2-a9c1-4c3f4696519d" />
   <Project Path="PyramidChallenge/PyramidChallenge.csproj" Id="3c797870-4d05-4665-af93-26b348410895" />
+  <Project Path="SwapApp/SwapApp.csproj" Id="5d9f5c82-ef2b-4738-84ce-a9974a102b14" />
   <Project Path="SwitchApp/SwitchApp.csproj" Id="ce10dcda-10b9-4d65-93be-d70bc9ec9f9f" />
   <Project Path="WhileApp/WhileApp.csproj" Id="5e4710b1-23b2-4f6c-b2d7-494ef5b398ac" />
 </Solution>
