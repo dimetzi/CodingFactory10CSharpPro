@@ -6,4 +6,5 @@
   <Project Path="NumberRead/NumberRead.csproj" Id="423ee3ea-1330-4e03-9839-ea93fd7bb60f" />
   <Project Path="PrintingApp/PrintingApp.csproj" Id="684f41fb-6a85-41a5-ad15-ccd1efc07248" />
   <Project Path="ProductsVat/ProductsVat.csproj" Id="1aca6de0-4c3d-44ba-b007-de7067543560" />
+  <Project Path="SwitchApp/SwitchApp.csproj" Id="ce10dcda-10b9-4d65-93be-d70bc9ec9f9f" />
 </Solution>
